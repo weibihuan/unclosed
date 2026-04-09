@@ -1,0 +1,15 @@
+{
+  "constant": "D = log_3 8",
+  "value": "1.89278926071437231129858134303",
+  "q_sequence": [1, 9, 28, 513, 1054, 7891, 16836, 142579],
+  "continued_fraction_2_minus_D": [0, 9, 3, 18, 2, 7, 2, 8, 1, 1],
+  "convergence_data": [
+    {"terms": 1, "error": 3.900e-3},
+    {"terms": 2, "error": 6.788e-5},
+    {"terms": 3, "error": 1.736e-6},
+    {"terms": 4, "error": 1.131e-7},
+    {"terms": 5, "error": 7.134e-9},
+    {"terms": 6, "error": 3.928e-10},
+    {"terms": 7, "error": 2.381e-11}
+  ]
+}
